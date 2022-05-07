@@ -1,3 +1,5 @@
+*.lst
+*.bin
 # Prerequisites
 *.d
 
